@@ -1,6 +1,1 @@
-<svg width="800" height="920" viewBox="0 0 800 920" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="920" rx="28" fill="#EEF0EA"/>
-  <circle cx="400" cy="330" r="145" fill="#D8DED2"/>
-  <path d="M150 820C172 615 269 520 400 520C531 520 628 615 650 820H150Z" fill="#C6D0C0"/>
-  <text x="400" y="875" text-anchor="middle" fill="#526052" font-family="Arial, sans-serif" font-size="28">Replace with profile photo</text>
-</svg>
+<svg width="800" height="920" viewBox="0 0 800 920" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="800" height="920" rx="28" fill="#EEF0EA"/><circle cx="400" cy="330" r="145" fill="#D8DED2"/><path d="M150 820C172 615 269 520 400 520C531 520 628 615 650 820H150Z" fill="#C6D0C0"/><text x="400" y="875" text-anchor="middle" fill="#526052" font-family="Arial, sans-serif" font-size="28">Replace with profile photo</text></svg>
